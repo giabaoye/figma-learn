@@ -13,3 +13,8 @@ further documentation: [Work with layers](https://help.figma.com/hc/en-us/articl
 ### Use smart selection to rearrange layers
 When a selection of objects are spaced evenly apart on both the horizontal and vertical axes, you get access to smart selection
 **Smart selection** lets us quickly rearrange and adjust spacing between two or more layers in a selection without having to go through the tedious task of adjusting it manually
+
+### Sections, Frames
+Sections: content, content, content, organizing our content
+Frames: container, container, container, hold our content and foundational piece for a lot of different things
+Groups
