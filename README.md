@@ -15,6 +15,11 @@ When a selection of objects are spaced evenly apart on both the horizontal and v
 **Smart selection** lets us quickly rearrange and adjust spacing between two or more layers in a selection without having to go through the tedious task of adjusting it manually
 
 ### Sections, Frames
-Sections: content, content, content, organizing our content
-Frames: container, container, container, hold our content and foundational piece for a lot of different things
+Sections: content, content, content, organizing our content\
+Frames: container, container, container, hold our content and foundational piece for a lot of different things\
 Groups
+
+### Components Fundamentals
+Components are reusable design elements. There are two aspects to a component:
+- The **main component** that defines the properties of the design element
+- And an **instance** that's a copy of the component, which we can add to our designs
