@@ -23,3 +23,8 @@ Groups
 Components are reusable design elements. There are two aspects to a component:
 - The **main component** that defines the properties of the design element
 - And an **instance** that's a copy of the component, which we can add to our designs
+
+### Flattening objects
+- Flattening an object merge its layers into a single vector layer, simplifying the design, reducing the file size, and improving asset compatibility
+- We can flatten a selection of vector layers to merge them into a complex vector shape. Or, flatten a text layer to customize aspects of a typeface of logos or wordmarks. Flattening a container layer, like frames or sections, will merge its child layers together and remove the container layer from the canvas
+- Flattening is a **destructive** action. Once an object is flattened, its individual layers cannot be separated again.
