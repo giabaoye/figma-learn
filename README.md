@@ -37,17 +37,17 @@ Prototypes are made up of Flows. These flows describe the journeys people can ta
 ### Interactions
 Interactions are rules we set for how your prototype will respond to user inputs
 They are made of a few smaller parts: a trigger, an action and an animation
-Learn more: [https://help.figma.com/hc/en-us/articles/360040315773-Connect-your-prototype#01H8ET45XCPNKN86XD9Y5PMF5T](interactions)
+Learn more: [interactions](https://help.figma.com/hc/en-us/articles/360040315773-Connect-your-prototype#01H8ET45XCPNKN86XD9Y5PMF5T)
 
 #### Triggers
 A trigger is what causes an interaction to begin
-[https://help.figma.com/hc/en-us/articles/360040035834-Prototype-triggers](prototype triggers)
+[prototype triggers](https://help.figma.com/hc/en-us/articles/360040035834-Prototype-triggers)
 #### Action
 An action is the result of a trigger
-[https://help.figma.com/hc/en-us/articles/360040035874-Prototype-actions](prototype actions)
+[prototype actions](https://help.figma.com/hc/en-us/articles/360040035874-Prototype-actions)
 #### Animations
 An animation defines how different properties, or objects, animate over time
-[https://help.figma.com/hc/en-us/articles/360040522373-Prototype-animations](prototype animations)
+[prototype animations](https://help.figma.com/hc/en-us/articles/360040522373-Prototype-animations)
 #### Connections
 Connections are used to string together frames and assets into a logical navigation flow for our prototype. We can identify connections by the blue arrows on the canvas, which we sometimes call "noodles"
-[https://help.figma.com/hc/en-us/articles/360040314193-Guide-to-prototyping-in-Figma#h_01HHN4WWN3YDJ27498DVE6K3E1](prototype connections)
+[prototype connections](https://help.figma.com/hc/en-us/articles/360040314193-Guide-to-prototyping-in-Figma#h_01HHN4WWN3YDJ27498DVE6K3E1)
